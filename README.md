@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Viral</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<h2>>About Me</h2>
 - 🌱 I’m currently learning **(MERN)Full Stak Webdelopment**
 
+<h2>>Linkedin Profile</h2>
 - 👨‍💻 All of my projects are available at https://www.linkedin.com/in/viralahir07
 
 <h3 align="left">Languages and Tools:</h3>
